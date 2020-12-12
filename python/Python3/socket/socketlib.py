@@ -1,4 +1,5 @@
 import socket
+# can someone help me to understand this
 
 # the public network interface
 HOST = socket.gethostbyname(socket.gethostname())
